@@ -1,0 +1,24 @@
+# Xcode project/workspace settings
+*.xcworkspace/
+xcuserdata/
+*.xcscmblueprint
+
+# Derived Data & Index
+DerivedData/
+*.xcuserstate
+*.xcdebugger/
+*.xcresult/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Temporary & Logs
+*.log
+*.tmp
+.DS_Store
+
+# Frameworks
+Frameworks/*
+!Frameworks/README.md
